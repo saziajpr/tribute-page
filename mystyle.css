@@ -1,0 +1,13 @@
+body
+{text-align:center;}
+#img-caption{
+  color:#808000;
+}
+#img-div img{
+ height:300px;
+ max-width:100%;
+}
+#tribute-info
+{
+  color:#B39D26;
+}
